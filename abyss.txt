@@ -8,6 +8,7 @@ URLSite = http://www.aprelium.com/
 URLDownload = http://www.aprelium.com/data/abwsx1.exe
 SHA1 = 502d9316447643524eef7dbf3d918b657fa6c368
 SizeBytes = 3253776
+Icon = abyss_server.ico
 
 [Section.0407]
 Description = Ermöglicht es Webseiten auf Ihrem Computer zu hosten. Er unterstützt sichere SSL/TLS Verbindungen (HTTPS) sowie eine Vielfalt an Web Technologien. Er kann ebenfalls PHP, Perl, Python, ASP, ASP.NET, und Ruby on Rails Web Anwendungen ausführen, welche von Datenbanken, wie MySQL, SQLite, MS SQL Server, MS Access, oder Oracle unterstützt werden können.
